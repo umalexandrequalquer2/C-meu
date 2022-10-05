@@ -1,0 +1,19 @@
+1 - Pegar o celular e desbloquear
+2 - abrir o aplicativo de contatos 
+3 - buscar pelo nome ou numero do contato desejado.
+4 - iniciar uma chamada com o contato desejado
+    4-1 caso o contato atenda fazer a chamada e desligar
+    4-2 caso o contato não atenda, escolher se vai deixar um recado.
+5 - finalizar a chamada.
+/////////////////////////////////////////////////////////////////////////
+1 - descobrir a quantidade de horas trabalhadas em um mes do funcionario e depois dividir pelo salario 
+
+            exemplo 
+[horas trabalhadas: 160 horas
+salario mês : R$1.212]
+depois dividir horas pelo salario 
+dando o resultado sendo R$7,55 por hora trabalhadas.
+
+eeeaaa
+
+////////////////////////////////////////////////////////////////////////////////
